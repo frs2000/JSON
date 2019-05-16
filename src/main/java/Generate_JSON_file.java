@@ -21,7 +21,7 @@ public class Generate_JSON_file {
 
             //print to file
             // the file will be created in the specified folder automatically
-            FileWriter file = new FileWriter("C:\\Users\\Dmitryi\\Downloads\\file.json");
+            FileWriter file = new FileWriter("C:\\Users\\file.json");
             file.write(String.valueOf(obj)); //-- working version
             //file.write(obj.toString());    -- working version too
 
