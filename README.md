@@ -1,0 +1,1 @@
+Work with JSON format with printing to the file and console
